@@ -1,0 +1,4 @@
+patient_id,name,dob,gender,contact_info,age_group
+1,John Doe,1985-03-12,Male,1234567890,Adult
+2,Jane Smith,1992-07-24,Female,2345678901,Adult
+3,Sam Wilson,2010-05-10,Male,3456789012,Child
