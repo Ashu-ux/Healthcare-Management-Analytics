@@ -1,0 +1,4 @@
+appointment_id,patient_id,doctor_id,appointment_date,admission_type,status,outcome
+1,1,1,2025-12-01,Emergency,Completed,Successful
+2,2,2,2025-12-02,General,Completed,Successful
+3,3,3,2025-12-03,Emergency,Completed,Failed
